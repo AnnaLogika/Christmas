@@ -1,0 +1,98 @@
+body {
+    background-color:lightgrey ; 
+ }
+
+ h1 {
+   text-align: center;  
+   color:black;
+   background-color:darkred;
+   font-family: Comic Sans MS, Comic Sans, cursive;
+   font-size: 60px;
+ }
+
+ header {
+    background-color:darkred;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+ }
+
+ header h1 {
+    margin: 10px;
+ }
+
+ nav {
+    text-align: center;
+    margin: 20px;
+ }
+
+ nav a {
+    background-color: rgb(156, 255, 156);
+    padding: 5px;
+    border-radius: 10px;
+    margin-right: 20px;
+    border: 2px solid black;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 30px;
+ }
+
+ h2 {
+    text-align: center;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 40px;
+ }
+
+  .text {
+    font-size: 30px;
+    margin:0;
+    margin-bottom: 20px;
+ }
+
+ .part { 
+   border: 2px solid  darkgoldenrod;
+   border-radius: 20px;
+   padding: 15px;
+ }
+
+main img {
+   border: 2px solid darkred;
+   border-radius: 10px;
+   padding: 5px;
+}
+
+.first-a {
+   background-color: darkred;
+}
+
+.second-a {
+   background-color: darkorange ;
+}
+
+.third-a {
+   background-color: darkgreen ;
+}
+
+  footer a {
+ font-family: Comic Sans MS, Comic Sans, cursive;
+ font-size: 30px;
+ color: darkgreen;
+}
+
+ footer p {
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-size: 30px; 
+ }
+
+ main p {
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-size: 10px; 
+ }
+
+ footer {
+   padding: 5px;
+   border-radius: 10px;
+   border: 2px solid darkred;0
+   font-family: Comic Sans MS, Comic Sans, cursive;
+   font-size: 30px;
+   margin-top: 20px;
+ }
